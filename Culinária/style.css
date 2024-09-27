@@ -1,0 +1,148 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+
+header{
+background-color: #ECA457;
+display: flex;
+height: 100px;
+justify-content: space-between;
+height: 123px;
+}
+ 
+.head{
+   padding-left: 20px;
+}
+.textos{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding-right: 50px;
+padding-top: 50px;
+
+}
+
+.head{
+    color: blanchedalmond;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 20px;}
+    .img1{
+        height: 120px;
+        width: 120px;
+        padding-top: 2px;
+        padding-left:35px;
+    }
+
+    .comidas{
+        justify-content: center;
+        flex-direction:row ;
+        align-items: center;
+        
+    }
+    h1{
+       
+        padding-top: 60px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+        ;
+        padding-bottom: 60px;
+        font-size: 50px;
+        padding-left:540px;
+        color: #ECA457;
+        font-weight: 300;
+    }
+    .comes{
+        padding-left: 215px;
+        width: 75%;
+        font-size: 27px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        padding-top: 20px;
+       
+    }
+
+   
+
+    .fotona{
+     width: 100%;
+     height: 670px;
+
+    }
+    .passos{
+         
+    display: flex;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    }
+    .todos_textos{
+        display: block;
+        padding-top: 85px;
+    }
+    .aprender{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding-bottom: 150px;
+       
+    }
+    .fotinhas{
+        height: 80px;
+        width: 80px;
+        padding-top: 60px;
+        padding-right: 5px;
+    }
+    
+    .passao{
+        color: #AFA7A7;
+       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .passeada{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+font-weight: 300;    }
+
+
+
+   
+   .blog{
+    padding-bottom: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+   
+   }
+ .finale{
+    padding-bottom: 200px;
+    padding-left:700px;
+    
+ }
+ .final{
+    border-top: 2px solid #ECA457 ;
+    padding-left: 5px;
+  
+ }
+ .textinhos{
+    
+   display: block;
+   padding-top: 100px;
+   padding-left: 150px;
+   font-size: 20px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+    .fot{
+        width: 200px;
+        height: 200px;
+        
+        
+    }
+    footer{
+        background-color: #ECA457;
+        height: 125px;
+    }
+    .img2{
+        height: 120px;
+        width: 120px;
+    padding-left: 700px;}
